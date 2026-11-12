@@ -1,0 +1,79 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5
+T_opt
+!i145 1
+!i144 0
+!s110 1793583740
+V26<^2iF=SlR:?QEE?jYm`0
+04 12 4 work tb_syn_task5 fast 0
+=1-ac8247a24ccf-6ae7ea7a-3e6-4a80
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work_syn_task5 -L altera_mf_ver -L altera_ver -L altera_lnsim_ver -L cyclonev_ver +acc
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+OL;O;2025.2;82
+vtask5
+Z2 2task5.vo|tb_syn_task5.sv
+Z3 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z4 !s110 1793583738
+!i10b 1
+!s100 SS7UhZhT?=i0S`PaPa=WU0
+I>@:0ZG@VUJRkECBoAY`EC0
+S1
+R1
+w1793582991
+8task5.vo
+Ftask5.vo
+!i122 0
+L0 32 54534
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z7 !s108 1793583738.000000
+Z8 !s107 tb_syn_task5.sv|task5.vo|
+Z9 !s90 -reportprogress|300|-sv|-work|work_syn_task5|task5.vo|tb_syn_task5.sv|
+!i113 0
+Z10 o-sv -work work_syn_task5 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0 defaultOptions 1085333592
+vtb_syn_task5
+R2
+R3
+R4
+!i10b 1
+!s100 TF`YU^^9lkmiHiZ=z@ADY3
+IU@oZ>o7hNY]X;BkG^k=Lf1
+S1
+R1
+w1793577747
+8tb_syn_task5.sv
+Ftb_syn_task5.sv
+!i122 0
+L0 3 212
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11

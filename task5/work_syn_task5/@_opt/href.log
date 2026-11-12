@@ -1,0 +1,6 @@
+BEGIN 1:common_28nm_ram_block:fast:altera_lnsim_ver
+    mem :  1:tb_syn_task5:fast:work_syn_task5
+END 
+BEGIN 1:common_28nm_ram_block:fast__3:altera_lnsim_ver
+    mem :  1:tb_syn_task5:fast:work_syn_task5
+END 

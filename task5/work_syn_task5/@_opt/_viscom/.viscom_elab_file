@@ -1,0 +1,1 @@
+C:/altera_lite/25.1std/questa_fse/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 32243712 work_syn_task5.tb_syn_task5 -quiet -auto_acc_if_foreign -work work_syn_task5 -L altera_mf_ver -L altera_ver -L altera_lnsim_ver -L cyclonev_ver +acc -allow_unnamed -o _opt -id 1-ac8247a24ccf-6ae7ea7a-3e6-4a80 +__betafsm

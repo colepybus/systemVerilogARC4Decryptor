@@ -1,0 +1,14 @@
+1 22 ALTERA_DEVICE_FAMILIES 4 fast 57 C:/altera_lite/25.1std/questa_fse/intel/verilog/altera_mf 0 0 655360 0 4279 0
+1 31 ALTERA_MF_MEMORY_INITIALIZATION 4 fast 57 C:/altera_lite/25.1std/questa_fse/intel/verilog/altera_mf 0 0 262144 0 2471 0
+1 15 altsyncram_body 4 fast 57 C:/altera_lite/25.1std/questa_fse/intel/verilog/altera_mf 0 0 1048576 0 7873 0
+1 10 altsyncram 4 fast 57 C:/altera_lite/25.1std/questa_fse/intel/verilog/altera_mf 0 0 131072 0 672 0
+1 6 pt_mem 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 0 0 115 0
+1 15 altsyncram_body 7 fast__1 57 C:/altera_lite/25.1std/questa_fse/intel/verilog/altera_mf 0 0 1048576 0 7873 0
+1 10 altsyncram 7 fast__1 57 C:/altera_lite/25.1std/questa_fse/intel/verilog/altera_mf 0 0 131072 0 672 0
+1 5 s_mem 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 131072 0 115 0
+1 4 init 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 0 0 60 0
+1 3 ksa 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 0 0 178 0
+1 4 prga 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 0 0 251 0
+1 4 arc4 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 0 0 225 0
+1 5 crack 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 0 0 170 0
+1 12 tb_rtl_crack 4 fast 62 C:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5/work_rtl 0 0 131072 0 876 0

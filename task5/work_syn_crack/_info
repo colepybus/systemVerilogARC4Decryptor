@@ -1,0 +1,79 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/colep/cpen311/cpen311-lab3/Lab_3/Lab_3/task5
+T_opt
+!i145 1
+!i144 0
+!s110 1793583264
+V^cnMcj<neEk]l8hE>W?R71
+04 12 4 work tb_syn_crack fast 0
+=1-ac8247a24ccf-6ae7e89e-67-5174
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work_syn_crack -L altera_mf_ver -L altera_ver -L altera_lnsim_ver -L cyclonev_ver +acc
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+OL;O;2025.2;82
+vcrack
+Z2 2crack.vo|tb_syn_crack.sv
+Z3 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z4 !s110 1793583261
+!i10b 1
+!s100 mo?eWlKT_[PLERmXLQmQM0
+IUzgdaSUIdXBPE8AQ9?_R>0
+S1
+R1
+w1793580883
+8crack.vo
+Fcrack.vo
+!i122 0
+L0 32 24226
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z7 !s108 1793583261.000000
+Z8 !s107 tb_syn_crack.sv|crack.vo|
+Z9 !s90 -reportprogress|300|-sv|-work|work_syn_crack|crack.vo|tb_syn_crack.sv|
+!i113 0
+Z10 o-sv -work work_syn_crack -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0 defaultOptions 1085333592
+vtb_syn_crack
+R2
+R3
+R4
+!i10b 1
+!s100 <m_=>B@_FCdE^KBzQ6oci3
+I>=RXYePQlV1MXTkOQY[V;1
+S1
+R1
+w1793577746
+8tb_syn_crack.sv
+Ftb_syn_crack.sv
+!i122 0
+L0 3 203
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11

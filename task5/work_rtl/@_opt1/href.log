@@ -1,0 +1,10 @@
+BEGIN 1:crack:fast__1:work_rtl
+    key_r :  1:tb_rtl_doublecrack:fast:work_rtl
+END 
+BEGIN 1:altsyncram_body:fast__1:altera_mf_ver
+    mem_data :  1:tb_rtl_doublecrack:fast:work_rtl
+END 
+BEGIN 1:crack:fast:work_rtl
+    key_r :  1:tb_rtl_doublecrack:fast:work_rtl
+    rdy :  1:tb_rtl_doublecrack:fast:work_rtl
+END 
